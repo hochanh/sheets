@@ -1,4 +1,4 @@
-baseURL = 'https://manhtai.github.io/sheets/'
+baseURL = 'https://hochanh.github.io/sheets/'
 languageCode = 'en-us'
-title = 'Music sheets for 6 holes flute'
+title = 'Music sheets for Flute'
 theme = "autophugo"
